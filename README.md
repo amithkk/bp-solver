@@ -17,7 +17,7 @@
 
 ![](img/viz.png)
 
-To visualize your packing process , go to [binpack-viewer.amith.ml](https://binpack-viewer.amith.ml/) and drag and drop the generated `viz.json` file
+To visualize your packing process, go to [binpack-viewer.amith.ml](https://binpack-viewer.amith.ml/) and drag and drop the generated `viz.json` file
 
 
 ## Example Output
