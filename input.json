@@ -1,0 +1,19 @@
+{
+    "container": {
+        "l": "19.4ft",
+        "w": "7.8ft",
+        "h": "8.6ft"
+    },
+    "carton_small": {
+        "l": "12in",
+        "w": "18in",
+        "h": "24in",
+        "count": 300
+    },
+    "carton_big": {
+        "l": "24in",
+        "w": "18in", 
+        "h": "36in", 
+        "count": 250
+    }
+}
