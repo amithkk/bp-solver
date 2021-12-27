@@ -28,4 +28,5 @@ To visualize your packing process , go to [binpack-viewer.amith.ml](https://binp
 Completed solving with 93.07% fill. (6.93% trim loss)
 Generated 45 instructions after simplification.
 Find results in output.json
+Visualization output created as viz.json
 ```
